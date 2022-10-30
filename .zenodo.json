@@ -1,0 +1,11 @@
+{
+    "creators": [
+        {
+            "name": "Yannik Böttcher"
+        }
+    ],
+    "description": "This is a modified version of one of the examples from <a href=\"https://github.com/temf/bembel\">Bembel library</a> created by Jürgen Dölz, Helmut Harbecht, Stefan Kurz, Michael Multerer, Maximilian Nolte, Sebastian Schöps and Felix Wolf. https://doi.org/10.5281/zenodo.3759415",
+    "references": [
+        "J. Dölz, H. Harbrecht, S. Kurz, M. Multerer, M. Nolte, S. Schöps and F. Wolf. (2020). temf/bembel: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.3759415"
+    ]
+}
