@@ -3,11 +3,10 @@
 
   inputs = {
     bembel = {
-      url = "git+http://10.0.0.1:3000/aethan/TemplateBembel.git";
+      url = "github:PositThesis/BembelTemplating";
     };
     online_lib = {
-        # this is a personal mirror of the EigenPositIntegration. For some reason, I cannot access the private github repo even with a token. So now I have a personal gitea instance on which this is hosted "public"
-        url = "git+http://10.0.0.1:3000/aethan/EigenPositIntegration.git";
+        url = "github:PositThesis/EigenUniversalIntegration";
     };
     flake-utils.url = "github:numtide/flake-utils";
   };
