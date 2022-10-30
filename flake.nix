@@ -3,7 +3,7 @@
 
   inputs = {
     bembel = {
-      url = "github:PositThesis/BembelTemplating";
+      url = "github:PositThesis/bembel";
     };
     online_lib = {
         url = "github:PositThesis/EigenUniversalIntegration";

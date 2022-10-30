@@ -9,13 +9,13 @@
         "lastModified": 1667130083,
         "narHash": "sha256-EtYY8N0yGX8PPEAN7gwajsuvLkgiFmwl7OPa0lCIkKs=",
         "owner": "PositThesis",
-        "repo": "BembelTemplating",
+        "repo": "bembel",
         "rev": "a66d8c9554b5ef515bf1ffabec714430bbc07891",
         "type": "github"
       },
       "original": {
         "owner": "PositThesis",
-        "repo": "BembelTemplating",
+        "repo": "bembel",
         "type": "github"
       }
     },
