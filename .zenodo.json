@@ -4,8 +4,9 @@
             "name": "Yannik Böttcher"
         }
     ],
-    "description": "This is a modified version of one of the examples from <a href=\"https://github.com/temf/bembel\">Bembel library</a> created by Jürgen Dölz, Helmut Harbecht, Stefan Kurz, Michael Multerer, Maximilian Nolte, Sebastian Schöps and Felix Wolf. https://doi.org/10.5281/zenodo.3759415",
+    "description": "This is a modified version of one of the examples from <a href=\"https://github.com/temf/bembel\">Bembel library</a> created by Jürgen Dölz, Helmut Harbecht, Stefan Kurz, Michael Multerer, Maximilian Nolte, Sebastian Schöps and Felix Wolf. https://doi.org/10.5281/zenodo.3759415, https://doi.org/10.1016/j.softx.2020.100476",
     "references": [
-        "J. Dölz, H. Harbrecht, S. Kurz, M. Multerer, M. Nolte, S. Schöps and F. Wolf. (2020). temf/bembel: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.3759415"
+        "J. Dölz, H. Harbrecht, S. Kurz, M. Multerer, M. Nolte, S. Schöps and F. Wolf. (2020). temf/bembel: v1.0 (v1.0). Zenodo. https://doi.org/10.5281/zenodo.3759415",
+        "J. Dölz et al. \"Bembel: The fast isogeometric boundary element C++ library for Laplace, Helmholtz, and electric wave equation\". In: SoftwareX 11 (2020), p. 100476. doi: 10.1016/j.softx.2020.100476. url: https://doi.org/10.1016/j.softx.2020.100476."
     ]
 }
